@@ -55,6 +55,6 @@ To use the post-CI workflow,
 6. Make sure the Dockerfile for the image you want to build is at the root of your repo
 7. Trigger a manual or webhook build
 8. After the build is complete, make sure your Docker Hub account has the right image. The image should be tagged with <image name>.<build number> 
-
+  
 
 
